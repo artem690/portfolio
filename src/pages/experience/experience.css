@@ -1,0 +1,26 @@
+.img-resize {
+   width: 10em;
+ }
+ 
+ .style {
+   font-size: 25px;
+ }
+ 
+ .jumbo-style {
+  background-image: radial-gradient(circle, #dfe2f3, #a6afbb, #737e85, #475052, #202525);
+ }
+ 
+ .body-title-style {
+   font-size: 25px;
+   font-weight: 800;
+ }
+ .div {
+    cursor: pointer ;
+ }
+ /* .div:hover{
+    
+ } */
+
+ .a{
+  background-color: rgba(142, 142, 142, 0.747);
+ }

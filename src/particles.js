@@ -1,0 +1,35 @@
+export const particles = {
+   "particles": {
+      "number": {
+          "value": 500,
+          "density": {
+              "enable": false
+          }
+      },
+      "size": {
+          "value": 5,
+          "random": true
+      },
+      "move": {
+          "direction": "bottom",
+          "out_mode": "out"
+      },
+      "line_linked": {
+          "enable": false
+      }
+  },
+  "interactivity": {
+      "events": {
+          "onclick": {
+              "enable": true,
+              "mode": "remove"
+          }
+      },
+      "modes": {
+          "remove": {
+              "particles_nb": 10
+          }
+      }
+  }
+
+ };
