@@ -4,7 +4,7 @@ import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import Image from 'react-bootstrap/Image';
 import Button from 'react-bootstrap/Button';
-import ProfilePic from '../../assets/img/profile/profile.webp';
+import ProfilePic from '../../assets/img/profile/profile.jpg';
 import Pdf from './resume_copy_2.pdf';
 import './about.css';
 
