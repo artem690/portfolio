@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a3bc47d2.chunk.css",
-    "main.js": "/portfolio/static/js/main.833cdd22.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.833cdd22.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.8f267378.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8f267378.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.9eb01163.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.9eb01163.js.map",
     "static/js/2.9b6ac6ef.chunk.js": "/portfolio/static/js/2.9b6ac6ef.chunk.js",
@@ -26,7 +26,7 @@
     "static/media/nodejs.2376f674.jpg": "/portfolio/static/media/nodejs.2376f674.jpg",
     "static/media/oregon.232e5aeb.jpg": "/portfolio/static/media/oregon.232e5aeb.jpg",
     "static/media/postgres.af9b36c1.jpg": "/portfolio/static/media/postgres.af9b36c1.jpg",
-    "static/media/profile.6adf37c6.webp": "/portfolio/static/media/profile.6adf37c6.webp",
+    "static/media/profile.f9e8c960.jpg": "/portfolio/static/media/profile.f9e8c960.jpg",
     "static/media/rails.d217ea21.jpg": "/portfolio/static/media/rails.d217ea21.jpg",
     "static/media/reactjs.efccb116.jpg": "/portfolio/static/media/reactjs.efccb116.jpg",
     "static/media/resume_copy_2.95f28a5d.pdf": "/portfolio/static/media/resume_copy_2.95f28a5d.pdf",
@@ -42,6 +42,6 @@
     "static/js/runtime-main.9eb01163.js",
     "static/js/2.9b6ac6ef.chunk.js",
     "static/css/main.a3bc47d2.chunk.css",
-    "static/js/main.833cdd22.chunk.js"
+    "static/js/main.8f267378.chunk.js"
   ]
 }
