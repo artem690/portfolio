@@ -8,6 +8,8 @@ import ProfilePic from '../../assets/img/profile/profile.webp';
 import Pdf from './resume_copy_2.pdf';
 import './about.css';
 
+import AdaptiveImage from 'react-adaptive-image';
+
 const About = () => {
    return (
       <div id="about">
@@ -17,7 +19,7 @@ const About = () => {
             <Row className="pt-3 pb-5 align-items-center">
                <Col xs={12} md={6}>
                   <Row className="justofy-content-mb-2 mr-2">
-                     <Image className="profile justify-content-end" alt="profile" src={ProfilePic} thumbnail fluid/>
+                     <AdaptiveImage className="profile justify-content-end" alt="profile" src={ProfilePic} thumbnail fluid/>
                   </Row>
                </Col>
             
