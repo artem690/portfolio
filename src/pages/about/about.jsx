@@ -28,7 +28,7 @@ const About = () => {
                      Hi, my name is Artem. I am originally from Russia. I moved to the United States at the age of 16. Currently, I am a senior at University of Colorado Boulder, working on completing Bachelor of Science in Computer Science. 
                      I am interested in working with full stack development. I have a big passion for front-end work especially because I am a very visual person and enjoy seeing the work I do.
                      <br/>
-                     I am looking for a full-time opportunity in software engineering/development, front-end development, web development, application development. I am committed and looking forward to joining the industry and learn every day. My commitment, hard work and passion for programming will show every day at a work force environment.
+                     I am looking for a full-time entry level opportunity in software engineering/development, front-end development, web development, application development. I am committed and looking forward to joining the industry and learn every day. My commitment, hard work and passion for programming will show every day at a work force environment.
                      I always strive to be better each day, make progress and have a positive impact on whatever I work on. Due to my sports past, I have a lot of experience in working on the team, and most important is that I love working on the team.
                   </Row>
                   <Row>
