@@ -4,6 +4,7 @@
  
  .style {
    font-size: 25px;
+   color: white;
  }
  
  .jumbo-style {
@@ -23,4 +24,8 @@
 
  .a{
   background-color: rgba(142, 142, 142, 0.747);
+ }
+
+ .strong{
+   color: black;
  }

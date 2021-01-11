@@ -23,16 +23,16 @@ const Experience = () => {
                 </div>
                 <div>
                   <Card.Text className="text-center style">
-                    <strong>Duration:</strong> June 2020 - August 2020
+                    <strong className="strong">Duration:</strong> June 2020 - August 2020
                     <br/>
-                    <strong>Technology:</strong> C#(DOTNET), Postgres, Docker
+                    <strong className="strong">Technology:</strong> C#(DOTNET), Postgres, Docker
                     <br />
-                    <strong> Description </strong>
+                    <strong className="strong"> Description </strong>
                     <ul className="text-left">
-                      <li><strong>Development</strong>  Helped working on transferring data that is stored in XML format from one database to another that would store similar data in JSON format.
+                      <li><strong className="strong">Development</strong>  Helped working on transferring data that is stored in XML format from one database to another that would store similar data in JSON format.
                            Worked on C# script that reads in and parses XML from database then converts, all attributes that are mappable to a different database, into JSON.</li>
                      
-                      <li><strong>HR project</strong> Listed/watched webinars across all industries that IHS Markit represents. Broke each webinar down by title, dates, industries, areas of interest and others, to make sure each webinar has appropriate tagging and key words for better searching in the web.</li>
+                      <li><strong className="strong">HR project</strong> Listed/watched webinars across all industries that IHS Markit represents. Broke each webinar down by title, dates, industries, areas of interest and others, to make sure each webinar has appropriate tagging and key words for better searching in the web.</li>
                     </ul>
                     
                   </Card.Text>
