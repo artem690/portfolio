@@ -5,7 +5,7 @@ import Row from 'react-bootstrap/Row';
 import Image from 'react-bootstrap/Image';
 import Button from 'react-bootstrap/Button';
 import ProfilePic from '../../assets/img/profile/profile.jpg';
-import Pdf from './resumeee.pdf';
+import Pdf from './rrresumecopy.pdf';
 import './about.css';
 
 import AdaptiveImage from 'react-adaptive-image';
