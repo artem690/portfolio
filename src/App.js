@@ -31,12 +31,12 @@ const App = () => {
       /> */}
       {/* About me  */ }
       <div>
-        <Parallax
+        {/* <Parallax
           blur={{ min: -1000, max: 1000 }}
           bgImage={require("./assets/img/parallex/background_reverse.webp")}
           bgImageAlt=""
           strength={-200}
-        >
+        > */}
           {/* <div> */}
             <Container className="container-box rounded">
               <Fade duration={500}>
@@ -44,7 +44,7 @@ const App = () => {
               </Fade>
             </Container>
           {/* </div> */}
-        </Parallax>
+        {/* </Parallax> */}
       </div>
       {/* skill */}
       <div>
