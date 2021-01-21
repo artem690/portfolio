@@ -12,7 +12,7 @@ const Experience = () => {
          <h1 className="pt-3 text-center font-details-b pb-3">WORK EXPERIENCE</h1>
             <Jumbotron className="jumbo-style">
                <Container>
-               <Tilt options={{ max: 25 }}>
+               {/* <Tilt options={{ max: 25 }}> */}
                   <Card className="a">
                   <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
                 <Card.Img variant="top" className="img-resize" src={IMAGE} alt="Accenture logo" />
@@ -39,7 +39,7 @@ const Experience = () => {
                 </div>
               </Card.Body>
                   </Card>
-               </Tilt>
+               {/* </Tilt> */}
                </Container>
             </Jumbotron>
       </div>
