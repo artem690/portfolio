@@ -1,6 +1,11 @@
 .img-resize {
    width: 10em;
  }
+
+ .experience{
+   height: auto;
+   width: auto;
+ }
  
  .style {
    font-size: 25px;

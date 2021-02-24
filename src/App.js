@@ -38,11 +38,11 @@ const App = () => {
           strength={-200}
         > */}
           {/* <div> */}
-            <Container className="container-box rounded">
+            {/* <Container className="container-box rounded"> */}
               <Fade duration={500}>
                 <About />
               </Fade>
-            </Container>
+            {/* </Container> */}
           {/* </div> */}
         {/* </Parallax> */}
       </div>
@@ -57,9 +57,9 @@ const App = () => {
       {/* experiences */}
       <div>
         <Container className="container-box rounded">
-          <Fade duration={500}>
+          {/* <Fade duration={500}> */}
             <Experience />
-          </Fade>
+          {/* </Fade> */}
         </Container>
       </div>
       {/* projects */}

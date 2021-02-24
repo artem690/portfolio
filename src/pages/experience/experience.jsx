@@ -11,7 +11,7 @@ const Experience = () => {
       <div id="experience">
          <h1 className="pt-3 text-center font-details-b pb-3">WORK EXPERIENCE</h1>
             <Jumbotron className="jumbo-style">
-               <Container>
+               <Container className="experience">
                {/* <Tilt options={{ max: 25 }}> */}
                   <Card className="a">
                   <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
